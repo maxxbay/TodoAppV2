@@ -1,5 +1,6 @@
 {
   "name": "06-create-react-app",
+  "homepage": "https://maxxbay.github.io/TodoAppV2/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
